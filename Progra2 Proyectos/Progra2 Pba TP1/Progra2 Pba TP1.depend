@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1377307396 source:e:\progra2 archivos\utilitarios.c
+	"utilitarios.h"
+	<stdio.h>
+
+1377307216 e:\progra2 archivos\utilitarios.h
+
+1377307476 source:e:\progra2 proyectos\progra2 pba tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"..\..\Progra2 Archivos\utilitarios.h"
+
+1377557476 source:e:\c\progra2 proyectos\progra2 pba tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"..\..\Progra2 Archivos\utilitarios.h"
+
+1377468742 e:\c\progra2 archivos\utilitarios.h
+
+1377640260 source:e:\c\progra2 archivos\utilitarios.c
+	"utilitarios.h"
+	<stdio.h>
+
+1377905846 source:c:\users\zierot00\workspacec\c\progra2 archivos\utilitarios.c
+	"utilitarios.h"
+	<stdio.h>
+
+1377732127 c:\users\zierot00\workspacec\c\progra2 archivos\utilitarios.h
+
+1377732210 source:c:\users\zierot00\workspacec\c\progra2 proyectos\progra2 pba tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"..\..\Progra2 Archivos\utilitarios.h"
+	"..\..\Progra2 Archivos\numeros.h"
+
+1377907514 source:c:\users\zierot00\workspacec\c\progra2 archivos\numeros.c
+	"numeros.h"
+	<stdio.h>
+	<math.h>
+
+1377905154 c:\users\zierot00\workspacec\c\progra2 archivos\numeros.h
+
+1377991721 source:c:\users\zeros_000\google drive\programación\c\progra2 archivos\numeros.c
+	"numeros.h"
+	<stdio.h>
+	<math.h>
+
+1377991575 c:\users\zeros_000\google drive\programación\c\progra2 archivos\numeros.h
+
+1377867159 source:c:\users\zeros_000\google drive\programación\c\progra2 proyectos\progra2 pba tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"..\..\Progra2 Archivos\utilitarios.h"
+	"..\..\Progra2 Archivos\numeros.h"
+
+1377867153 c:\users\zeros_000\google drive\programación\c\progra2 archivos\utilitarios.h
+
+1377991695 source:c:\users\zeros_000\google drive\programación\c\progra2 archivos\utilitarios.c
+	"utilitarios.h"
+	<stdio.h>
+
+1378480665 source:c:\users\cris\documents\github\c\progra2 archivos\fecha.c
+	"fecha.h"
+
+1378218328 D
+
+1378480665 source:c:\users\cris\documents\github\c\progra2 archivos\numeros.c
+	"numeros.h"
+	<stdio.h>
+	<math.h>
+
+1378229997 3a1e0167fe3c8b6a4faa5ceb259bb8ee51858
+	"numeros.h"
+	<stdio.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"..\..\Progra2 Archivos\utilitarios.h"
+	"..\..\Progra2 Archivos\numeros.h"
+
+1378249607 c:\users\cris\documents\github\c\progra2 archivos\numeros.h
+
+1378513081 source:c:\users\cris\documents\github\c\progra2 archivos\utilitarios.c
+	"utilitarios.h"
+	<stdio.h>
+
+1378480665 c:\users\cris\documents\github\c\progra2 archivos\utilitarios.h
+
+1378508119 source:c:\users\cris\documents\github\c\progra2 proyectos\progra2 pba tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"..\..\Progra2 Archivos\fecha.h"
+	"..\..\Progra2 Archivos\utilitarios.h"
+	"..\..\Progra2 Archivos\numeros.h"
+	"..\..\Progra2 Archivos\vectores.h"
+	"..\..\Progra2 Archivos\matrices.h"
+
+1378480665 c:\users\cris\documents\github\c\progra2 archivos\fecha.h
+
+1378420584 source:c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\fecha.c
+	"fecha.h"
+
+1378420004 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\fecha.h
+
+1378347422 source:c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\numeros.c
+	"numeros.h"
+	<stdio.h>
+	<math.h>
+
+1378347422 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\numeros.h
+
+1378348833 source:c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\utilitarios.c
+	"utilitarios.h"
+	<stdio.h>
+
+1378349295 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\utilitarios.h
+
+1378348833 source:c:\users\zeros_000\google drive\programación\workspace c\c\progra2 proyectos\progra2 pba tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"..\..\Progra2 Archivos\fecha.h"
+	"..\..\Progra2 Archivos\utilitarios.h"
+	"..\..\Progra2 Archivos\numeros.h"
+
+1378349915 source:c:\users\ziero-t03\google drive\programación\workspace c\c\progra2 archivos\fecha.c
+	"fecha.h"
+
+1378349915 c:\users\ziero-t03\google drive\programación\workspace c\c\progra2 archivos\fecha.h
+
+1378349915 source:c:\users\ziero-t03\google drive\programación\workspace c\c\progra2 proyectos\progra2 pba tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"..\..\Progra2 Archivos\fecha.h"
+	"..\..\Progra2 Archivos\utilitarios.h"
+	"..\..\Progra2 Archivos\numeros.h"
+
+1378351169 c:\users\ziero-t03\google drive\programación\workspace c\c\progra2 archivos\utilitarios.h
+
+1378349915 c:\users\ziero-t03\google drive\programación\workspace c\c\progra2 archivos\numeros.h
+
+1378956607 source:c:\users\ziero-t03\google drive\programación\workspace c\c\progra2 archivos\utilitarios.c
+	"utilitarios.h"
+	<stdio.h>
+
+1378510253 source:c:\users\cris\documents\github\c\progra2 archivos\vectores.c
+	"vectores.h"
+
+1378508671 c:\users\cris\documents\github\c\progra2 archivos\vectores.h
+
+1378513013 source:c:\users\cris\documents\github\c\progra2 archivos\matrices.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1378513013 c:\users\cris\documents\github\c\progra2 archivos\matrices.h
+
