@@ -35,6 +35,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="../../Progra2 Archivos/fecha.h" />
+		<Unit filename="../../Progra2 Archivos/matrices.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Progra2 Archivos/matrices.h" />
 		<Unit filename="../../Progra2 Archivos/numeros.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -43,6 +47,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="../../Progra2 Archivos/utilitarios.h" />
+		<Unit filename="../../Progra2 Archivos/vectores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Progra2 Archivos/vectores.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
