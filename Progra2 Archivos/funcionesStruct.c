@@ -26,5 +26,24 @@ void entradaaleatoria(FILE * pf)
         fread(&alu,sizeof(t_alumno),1,pf);
     }
     fclose(pf);
-    return 0;
+}
+void verarchivo(FILE * pf)
+{
+    int i;
+    t_alumno alu;
+    pf= fopen("dato.bin","rb");
+   if(!pf)
+    {
+        printf("Error al abrir el archivo");
+        exit(1);
+    }
+    fread(&alu,sizeof(t_alumno),1,pf);
+    while (!feof(pf))
+    {
+        printf("\n LEGAJO %d\t NOMBRE %s\t FECHA: %d/%d/%d\tESTADO> %c\n",alu.legajo,alu.ayn,alu.fechaIng.dia,
+               alu.fechaIng.mes,alu.fechaIng.anio,alu.estado);
+        fread(&alu,sizeof(t_alumno),1,pf);
+        i++;
+    }
+fclose(pf);
 }

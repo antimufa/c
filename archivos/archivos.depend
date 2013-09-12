@@ -1,5 +1,23 @@
 # depslib dependency file v1.0
-1379010824 source:c:\users\zeros_000\google drive\programación\workspace c\c\archivos\main.c
+1379021701 source:c:\users\zeros_000\google drive\programación\workspace c\c\archivos\main.c
 	<stdio.h>
 	<stdlib.h>
+	"funciones.h"
+
+1379018347 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\funcionesstruct.h
+	"fecha.h"
+
+1379017189 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\fecha.h
+
+1379021143 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\funcionesstruct.c
+	<stdio.h>
+	"FuncionesStruct.h"
+	"fecha.h"
+	"fecha.c"
+
+1379017401 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\fecha.c
+	"fecha.h"
+
+1379021729 c:\users\zeros_000\google drive\programación\workspace c\c\archivos\funciones.h
+	<stdio.h>
 

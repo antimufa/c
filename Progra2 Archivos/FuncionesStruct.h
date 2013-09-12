@@ -10,5 +10,5 @@ typedef struct
 }t_alumno;
 
 void entradaaleatoria(FILE * );
-
+void verarchivo(FILE *);
 #endif // FUNCIONESSTRUCT_H_INCLUDED
