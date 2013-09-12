@@ -8,6 +8,7 @@
 int main()
 {
 
+
    const char opciones[][30]={"NFVMQ",
                                "Numeros",
                                "Fechas",

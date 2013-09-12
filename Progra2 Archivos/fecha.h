@@ -16,7 +16,7 @@ int mesMenor(int,int,int,int);
 int esBisiesto(int);
 int diasiguientefecha (t_fecha*);
 int fechamasNdias(t_fecha * f,int n);
-
+int fechacmp( t_fecha *, t_fecha *);
 
 
 

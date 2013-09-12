@@ -120,3 +120,14 @@ int fechamasNdias(t_fecha * f,int n)
         }
     }
 }
+
+int fechacmp( t_fecha * f1,t_fecha * f2 ) //compara si la fecha 2 es mayor a 1.
+{
+    int fechatexto1[1];
+    int fechatexto2[1];
+    int r;
+    sprintf(fechatexto1,"%4d%02d%02d",f1->anio,f1->mes,f1->dia);
+    sprintf(fechatexto2,"%4d%02d%02d",f2->anio,f2->mes,f2->dia);
+    r=fechatexto1[1]-fechatexto2[1];
+    return r;
+}

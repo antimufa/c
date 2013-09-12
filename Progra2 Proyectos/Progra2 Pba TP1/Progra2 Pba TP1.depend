@@ -97,30 +97,32 @@
 
 1378480665 c:\users\cris\documents\github\c\progra2 archivos\fecha.h
 
-1378420584 source:c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\fecha.c
+1379017340 source:c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\fecha.c
 	"fecha.h"
 
-1378420004 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\fecha.h
+1379017189 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\fecha.h
 
-1378347422 source:c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\numeros.c
+1378695069 source:c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\numeros.c
 	"numeros.h"
 	<stdio.h>
 	<math.h>
 
-1378347422 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\numeros.h
+1378695069 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\numeros.h
 
-1378348833 source:c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\utilitarios.c
+1378695069 source:c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\utilitarios.c
 	"utilitarios.h"
 	<stdio.h>
 
-1378349295 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\utilitarios.h
+1378695069 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\utilitarios.h
 
-1378348833 source:c:\users\zeros_000\google drive\programación\workspace c\c\progra2 proyectos\progra2 pba tp1\main.c
+1379017004 source:c:\users\zeros_000\google drive\programación\workspace c\c\progra2 proyectos\progra2 pba tp1\main.c
 	<stdio.h>
 	<stdlib.h>
 	"..\..\Progra2 Archivos\fecha.h"
 	"..\..\Progra2 Archivos\utilitarios.h"
 	"..\..\Progra2 Archivos\numeros.h"
+	"..\..\Progra2 Archivos\vectores.h"
+	"..\..\Progra2 Archivos\matrices.h"
 
 1378349915 source:c:\users\ziero-t03\google drive\programación\workspace c\c\progra2 archivos\fecha.c
 	"fecha.h"
@@ -153,4 +155,16 @@
 	"matrices.h"
 
 1378513013 c:\users\cris\documents\github\c\progra2 archivos\matrices.h
+
+1378695069 source:c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\matrices.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1378695069 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\matrices.h
+
+1378695069 source:c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\vectores.c
+	"vectores.h"
+
+1378695069 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\vectores.h
 
