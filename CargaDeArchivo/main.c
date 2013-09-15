@@ -38,14 +38,14 @@ int main()
                 gets(alu[i].ayn);
                 printf("Ingrese la fecha de ingreso:");
                 fflush(stdin);
-                scanf("%d%d%d",&alu[i].fechaIng.dia,&alu[i].fechaIng.mes,&alu[i].fechaIng.anio);
+                scanf("%d/%d/%d",&alu[i].fechaIng.dia,&alu[i].fechaIng.mes,&alu[i].fechaIng.anio);
                 printf("Ingrese el estado:");
                 fflush(stdin);
                 scanf("%c",&alu[i].estado);
                 fwrite(&alu[i],sizeof(t_alumno),1,pf);
                 i++;
             }while(alu[i-1].legajo!=0 && i<5 ); //i-1 por que sino nunca compara con el recien ingresado
-        entradaaleatoria(pf); //modifica los valores del 1 1 2000
+        entradaaleatoria(&pf); //modifica los valores del 1 1 2000
         fclose(pf);
         printf("oprima 1 si desea ver el archivo");
         scanf("%d",&op);
