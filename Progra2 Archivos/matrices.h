@@ -1,6 +1,6 @@
 #ifndef MATRICES_INCLUDED
 #define MATRICES_INCLUDED
-#define N 5
+#define N 3
 
 int sumdiagprincipal(int * ,int, int);
 int sumdiagsecundaria(int * ,int , int );
