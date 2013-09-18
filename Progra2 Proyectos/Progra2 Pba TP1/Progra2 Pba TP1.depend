@@ -168,3 +168,42 @@
 
 1378695069 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\vectores.h
 
+1379103335 source:c:\users\ziero-n00\documents\github\c\progra2 archivos\fecha.c
+	"fecha.h"
+
+1379103335 c:\users\ziero-n00\documents\github\c\progra2 archivos\fecha.h
+
+1379103335 source:c:\users\ziero-n00\documents\github\c\progra2 archivos\matrices.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1379468435 c:\users\ziero-n00\documents\github\c\progra2 archivos\matrices.h
+
+1379103335 source:c:\users\ziero-n00\documents\github\c\progra2 archivos\numeros.c
+	"numeros.h"
+	<stdio.h>
+	<math.h>
+
+1379103335 c:\users\ziero-n00\documents\github\c\progra2 archivos\numeros.h
+
+1379103335 source:c:\users\ziero-n00\documents\github\c\progra2 archivos\utilitarios.c
+	"utilitarios.h"
+	<stdio.h>
+
+1379103335 c:\users\ziero-n00\documents\github\c\progra2 archivos\utilitarios.h
+
+1379103335 source:c:\users\ziero-n00\documents\github\c\progra2 archivos\vectores.c
+	"vectores.h"
+
+1379103335 c:\users\ziero-n00\documents\github\c\progra2 archivos\vectores.h
+
+1379103335 source:c:\users\ziero-n00\documents\github\c\progra2 proyectos\progra2 pba tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"..\..\Progra2 Archivos\fecha.h"
+	"..\..\Progra2 Archivos\utilitarios.h"
+	"..\..\Progra2 Archivos\numeros.h"
+	"..\..\Progra2 Archivos\vectores.h"
+	"..\..\Progra2 Archivos\matrices.h"
+

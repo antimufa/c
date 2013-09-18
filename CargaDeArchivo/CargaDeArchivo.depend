@@ -23,12 +23,17 @@
 1379017401 c:\users\zeros_000\google drive\programación\workspace c\c\progra2 archivos\fecha.c
 	"fecha.h"
 
+<<<<<<< HEAD
 1379112137 source:c:\users\cris\documents\github\c\progra2 archivos\funcionesstruct.c
+=======
+1379103335 source:c:\users\ziero-n00\documents\github\c\progra2 archivos\funcionesstruct.c
+>>>>>>> 342a2a633b5efef66c5cde252a9046cfabdca52d
 	<stdio.h>
 	"FuncionesStruct.h"
 	"fecha.h"
 	"fecha.c"
 
+<<<<<<< HEAD
 1379106347 c:\users\cris\documents\github\c\progra2 archivos\funcionesstruct.h
 	"fecha.h"
 
@@ -38,6 +43,17 @@
 	"fecha.h"
 
 1379112942 source:c:\users\cris\documents\github\c\cargadearchivo\main.c
+=======
+1379103335 c:\users\ziero-n00\documents\github\c\progra2 archivos\funcionesstruct.h
+	"fecha.h"
+
+1379103335 c:\users\ziero-n00\documents\github\c\progra2 archivos\fecha.h
+
+1379103335 c:\users\ziero-n00\documents\github\c\progra2 archivos\fecha.c
+	"fecha.h"
+
+1379113296 source:c:\users\ziero-n00\documents\github\c\cargadearchivo\main.c
+>>>>>>> 342a2a633b5efef66c5cde252a9046cfabdca52d
 	<stdio.h>
 	<stdlib.h>
 	"..\Progra2 Archivos\FuncionesStruct.h"

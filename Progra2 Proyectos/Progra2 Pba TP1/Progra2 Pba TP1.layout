@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
+<<<<<<< HEAD
 	<File name="..\..\Progra2 Archivos\fecha.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="2101" topLine="44" />
@@ -14,22 +15,44 @@
 	<File name="..\..\Progra2 Archivos\numeros.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="2014" topLine="93" />
-		</Cursor>
-	</File>
+=======
 	<File name="..\..\Progra2 Archivos\numeros.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="311" topLine="0" />
 		</Cursor>
 	</File>
+	<File name="..\..\Progra2 Archivos\utilitarios.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3451" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\Progra2 Archivos\utilitarios.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="347" topLine="0" />
+>>>>>>> 342a2a633b5efef66c5cde252a9046cfabdca52d
+		</Cursor>
+	</File>
+	<File name="..\..\Progra2 Archivos\vectores.c" open="1" top="1" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="188" topLine="0" />
+		</Cursor>
+	</File>
+<<<<<<< HEAD
 	<File name="..\..\Progra2 Archivos\utilitarios.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="3451" topLine="52" />
+=======
+	<File name="..\..\Progra2 Archivos\vectores.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="71" topLine="0" />
+>>>>>>> 342a2a633b5efef66c5cde252a9046cfabdca52d
 		</Cursor>
 		<Folding>
 			<Collapse line="38" />
 			<Collapse line="60" />
 		</Folding>
 	</File>
+<<<<<<< HEAD
 	<File name="..\..\Progra2 Archivos\fecha.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="209" topLine="0" />
@@ -48,8 +71,33 @@
 	<File name="..\..\Progra2 Archivos\matrices.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="64" topLine="0" />
+=======
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="427" topLine="9" />
 		</Cursor>
 	</File>
+	<File name="..\..\Progra2 Archivos\matrices.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="202" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\Progra2 Archivos\numeros.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2014" topLine="93" />
+		</Cursor>
+	</File>
+	<File name="..\..\Progra2 Archivos\fecha.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3669" topLine="0" />
+>>>>>>> 342a2a633b5efef66c5cde252a9046cfabdca52d
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="29" />
+		</Folding>
+	</File>
+<<<<<<< HEAD
 	<File name="..\..\Progra2 Archivos\vectores.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="452" topLine="12" />
@@ -58,6 +106,16 @@
 	<File name="..\..\Progra2 Archivos\utilitarios.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="27" topLine="0" />
+=======
+	<File name="..\..\Progra2 Archivos\fecha.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="429" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\Progra2 Archivos\matrices.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1900" topLine="0" />
+>>>>>>> 342a2a633b5efef66c5cde252a9046cfabdca52d
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>
