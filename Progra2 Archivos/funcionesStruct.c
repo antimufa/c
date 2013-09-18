@@ -3,7 +3,7 @@
 #include "fecha.h"
 #include "fecha.c"
 
-void entradaaleatoria(FILE * pf)
+void entradaAleatoria(FILE * pf)
 {
     t_alumno alu;
     t_fecha fp={1,1,2000};

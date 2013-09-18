@@ -1,5 +1,5 @@
 #include "funciones.h"
-void verarchivo(FILE * pf)
+void verArchivo(FILE * pf)
 {
     int i;
     datos d;

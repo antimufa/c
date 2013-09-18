@@ -13,7 +13,7 @@ int main()
         printf("Error al abrir el archivo");
         exit(1);
     }
-    printf("oprima 1 si desea ver el archivo y dejarlo como estaba");
+    printf("Ingrese sus Datos, para terminar Ingrese un Legajo 0, si quiere ver como esta el archivo precione 1");
     scanf("%d",&op);
     if (op==1)
     {
@@ -28,24 +28,26 @@ int main()
             printf("Error al abrir el archivo");
             exit(1);
         }
-        do
+        while(alu[i-1].legajo!=0 && i<5 )
         {
-                printf("ingrese el Legajo");
+                printf("ingrese el Legajo\n");
                 fflush(stdin);
                 scanf("%d",&alu[i].legajo);
-                printf("ingrese el nombre:");
+                printf("ingrese el nombre:\n");
                 fflush(stdin);
                 gets(alu[i].ayn);
-                printf("Ingrese la fecha de ingreso:");
+                printf("Ingrese la fecha de ingreso:\n");
                 fflush(stdin);
-                scanf("%d%d%d",&alu[i].fechaIng.dia,&alu[i].fechaIng.mes,&alu[i].fechaIng.anio);
-                printf("Ingrese el estado:");
+                scanf("%d",&alu[i].fechaIng.dia);
+                scanf("%d",&alu[i].fechaIng.mes);
+                scanf("%d",&alu[i].fechaIng.anio);
+                printf("Ingrese el estado:\n");
                 fflush(stdin);
                 scanf("%c",&alu[i].estado);
                 fwrite(&alu[i],sizeof(t_alumno),1,pf);
                 i++;
-            }while(alu[i-1].legajo!=0 && i<5 ); //i-1 por que sino nunca compara con el recien ingresado
-        entradaaleatoria(pf); //modifica los valores del 1 1 2000
+            }//i-1 por que sino nunca compara con el recien ingresado
+        entradaAleatoria(pf); //modifica los valores del 1 1 2000
         fclose(pf);
         printf("oprima 1 si desea ver el archivo");
         scanf("%d",&op);

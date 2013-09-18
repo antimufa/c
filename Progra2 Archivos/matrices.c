@@ -85,7 +85,7 @@ int sumSuperiorDiagSecun(int *m,int fila, int columna)
 	for(i=0;i<fila;i++)
         for(j=0;j<columna;j++)
 			if(i+j<N-1)
-				r+= *(m+i*columna+j);
+				r+= *(m+i*columna+j); //es lo mismo a m[i][j]*columna+j
         return r;
 }
 

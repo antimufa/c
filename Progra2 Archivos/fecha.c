@@ -54,7 +54,7 @@ void ejercicio16()
 
 int cantdiasmes( int m, int a) // SACO LA CANTIDAD DE DIAS (YA QUE PUEDE VARIAR SEGUN EL MES)
 {
-        static int vdias[12]={31,28,31,30,31,30,31,31,30,31,30,31};
+        static int vdias[12]={31,28,31,30,31,30,31,31,30,31,30,31}; //  VECTOR QUE TIENE HARDCODEADOS LOS MESES
         if((esBisiesto(a)==1)&&m==2)
             return 29;
         return vdias[m-1];
