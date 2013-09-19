@@ -31,9 +31,18 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="../Progra2 Archivos/fecha.h" />
+		<Unit filename="indice.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="indice.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="tp2Archivos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tps2archivos.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
