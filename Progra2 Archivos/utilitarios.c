@@ -34,7 +34,12 @@ void pausa(const char *msj)
     fflush(stdin);
     scanf("%*c");
 }
-
+void finAnormal(const char * msj)
+{
+	pausa (msj);
+	puts("\n se cancela el programa");
+	exit (1);
+}
 void funcion_numeros()
 {
     const char opcionesNumero[][30]={"1234V",
