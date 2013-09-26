@@ -32,6 +32,10 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Unit filename="../Progra2 Archivos/fecha.h" />
+		<Unit filename="colas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="colas.h" />
 		<Unit filename="indice.c">
 			<Option compilerVar="CC" />
 		</Unit>

@@ -1,14 +1,19 @@
 #ifndef INDICE_H_INCLUDED
 #define INDICE_H_INCLUDED
-
+#define MAX_INDICE 100
 typedef struct
 {
     long dni;
     unsigned nroReg;
 
 }t_reg_indice;
+typedef struct{
 
-void indCrear(t_indice*); //toma memoria para 100 elementos e inicializa la estructura a indice_vacio.
+t_reg_indice * indice;
+
+}t_indice;
+
+int indCrear(t_indice*); //toma memoria para 100 elementos e inicializa la estructura a indice_vacio.
 int indInsertar(t_indice*,const t_reg_indice*); //inserta en orden según el dni. Si no hay lugar en el array, tomar memoria para un 30 % más de lo que tenía.
 int indEliminar(t_indice*,t_reg_indice*); //elimina un dni informado
 int indBuscar(const t_indice*,t_reg_indice* reg_ind); // si el dni existe deja el regustro en reg_ind
@@ -19,6 +24,7 @@ int indPrimero(t_indice*,t_reg_indice* reg_ind); // deja el primer registro de i
 int indSiguiente (t_indice*,t_reg_indice*);
 int indFin (const t_indice*); //devuelve verdad si a ultima operacion de accesso secuencial no entrego el registro por haber llegado al fin de la secuencia y falso en caso contrario
 void indLiberar(t_indice*); //libera la memoria utilizada por el indice
+
 
 
 
