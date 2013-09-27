@@ -7,13 +7,12 @@ typedef struct
     unsigned nroReg;
 
 }t_reg_indice;
-typedef struct
-{
-    t_reg_indice * indice;
+typedef struct{
+
+t_reg_indice * indice;
 
 }t_indice;
 
->>>>>>> 615921a858e899ea1b526b868af443e0e325fbd7
 int indCrear(t_indice*); //toma memoria para 100 elementos e inicializa la estructura a indice_vacio.
 int indInsertar(t_indice*,const t_reg_indice*); //inserta en orden según el dni. Si no hay lugar en el array, tomar memoria para un 30 % más de lo que tenía.
 int indEliminar(t_indice*,t_reg_indice*); //elimina un dni informado
