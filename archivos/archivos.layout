@@ -2,7 +2,11 @@
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<File name="main.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+=======
+	<File name="funciones.c" open="1" top="1" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+>>>>>>> 615921a858e899ea1b526b868af443e0e325fbd7
 =======
 	<File name="funciones.c" open="1" top="1" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 >>>>>>> 615921a858e899ea1b526b868af443e0e325fbd7
@@ -10,6 +14,7 @@
 			<Cursor1 position="289" topLine="0" />
 		</Cursor>
 	</File>
+<<<<<<< HEAD
 <<<<<<< HEAD
 	<File name="funciones.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
@@ -21,14 +26,25 @@
 			<Cursor1 position="50" topLine="0" />
 =======
 	<File name="main.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+=======
+	<File name="main.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="450" topLine="0" />
 		</Cursor>
+	</File>
+	<File name="funciones.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+>>>>>>> 615921a858e899ea1b526b868af443e0e325fbd7
+		<Cursor>
+			<Cursor1 position="77" topLine="0" />
+		</Cursor>
+<<<<<<< HEAD
 	</File>
 	<File name="funciones.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="77" topLine="0" />
 >>>>>>> 615921a858e899ea1b526b868af443e0e325fbd7
 		</Cursor>
+=======
+>>>>>>> 615921a858e899ea1b526b868af443e0e325fbd7
 	</File>
 </CodeBlocks_layout_file>

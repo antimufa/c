@@ -1,10 +1,9 @@
 #include <stdio.h>
 #include "indice.h"
-<<<<<<< HEAD
 #include <stdlib.h>
 #define PILA_LLENA 0
 #define
-=======
+
 
 int indCrear (t_indice * indice)
 {
@@ -13,4 +12,4 @@ int indCrear (t_indice * indice)
         return 0;
     return 1;
 }
->>>>>>> 615921a858e899ea1b526b868af443e0e325fbd7
+

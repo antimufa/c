@@ -1,12 +1,9 @@
 #ifndef INDICE_H_INCLUDED
 #define INDICE_H_INCLUDED
-<<<<<<< HEAD
 #define ESTA_VACIO 0
 #define ESTA_LLENO 0
-
-=======
 #define MAX_INDICE 100
->>>>>>> 615921a858e899ea1b526b868af443e0e325fbd7
+#define MAX_INDICE 100
 typedef struct
 {
     long dni;
@@ -14,9 +11,7 @@ typedef struct
 
 }t_reg_indice;
 typedef struct{
-
 t_reg_indice * indice;
-
 }t_indice;
 
 int indCrear(t_indice*); //toma memoria para 100 elementos e inicializa la estructura a indice_vacio.
