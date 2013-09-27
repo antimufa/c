@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1380069822 source:c:\users\cris\documents\github\c\practicaunidad2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PrimitivasPilas.h"
+
+1380070519 c:\users\cris\documents\github\c\practicaunidad2\primitivaspilas.h
+
+1380068470 source:c:\users\cris\documents\github\c\practicaunidad2\primitivaspilas.c
+	<stdio.h>
+	"PrimitivasPilas.h"
+

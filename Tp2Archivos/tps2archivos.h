@@ -13,6 +13,6 @@ typedef struct
     t_fecha fechaUltMateriaAp;
     char estado;
     t_fecha fechaDeBaja;
-} informacion;
+} t_informacion;
 
 #endif // TPS2ARCHIVOS_H_INCLUDED

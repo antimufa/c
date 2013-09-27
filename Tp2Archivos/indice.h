@@ -1,5 +1,7 @@
 #ifndef INDICE_H_INCLUDED
 #define INDICE_H_INCLUDED
+#define ESTA_VACIO 0
+#define ESTA_LLENO 0
 
 typedef struct
 {
