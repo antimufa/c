@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1380070023 source:c:\users\ziero-n00\documents\github\c\tp2archivos\colas.c
+	"colas.h"
+	<stdio.h>
+
+1380068004 c:\users\ziero-n00\documents\github\c\tp2archivos\colas.h
+
+1380070846 source:c:\users\ziero-n00\documents\github\c\tp2archivos\indice.c
+	<stdio.h>
+	"indice.h"
+
+1380070895 c:\users\ziero-n00\documents\github\c\tp2archivos\indice.h
+
+1380069814 source:c:\users\ziero-n00\documents\github\c\tp2archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+
+1380069481 source:c:\users\ziero-n00\documents\github\c\tp2archivos\tp2archivos.c
+	"tps2archivos.h"
+
+1380069438 c:\users\ziero-n00\documents\github\c\tp2archivos\tps2archivos.h
+	"..\Progra2 Archivos\fecha.h"
+
+1379103335 c:\users\ziero-n00\documents\github\c\progra2 archivos\fecha.h
+

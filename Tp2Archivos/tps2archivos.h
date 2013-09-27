@@ -1,6 +1,6 @@
 #ifndef TPS2ARCHIVOS_H_INCLUDED
 #define TPS2ARCHIVOS_H_INCLUDED
-void verArchivo(FILE *);
+#include "..\Progra2 Archivos\fecha.h"
 typedef struct
 {
     long dni;

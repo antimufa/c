@@ -8,4 +8,5 @@ void funcion_matrices();
 char menu(const char [][30], const char*);
 char pedir_opcion(const char [][30], const char* titulo, const char* msj);
 void pausa(const char*);
+void finAnormal(const char *);
 #endif // UTILITARIOS_H_INCLUDED
