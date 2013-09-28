@@ -1,5 +1,6 @@
 #ifndef ESTRUCTURASNLCP_H_INCLUDED
 #define ESTRUCTURASNLCP_H_INCLUDED
+
 typedef int t_dato;
 typedef struct s_nodo
 {
