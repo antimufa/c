@@ -3,16 +3,7 @@
 #define COLA_LLENA 0
 #define COLA_VACIA 0
 #define TODO_OK 1
-typedef int t_dato;
-typedef struct s_nodo
-{
-    t_dato info;
-    struct s_nodo6 * psig;
-}t_nodo;
-typedef struct{
- t_nodo * frente, *cola;
- }t_cola;
-
+#include "estructurasNLCP.h"
 void crear_cola(t_cola*pc);
 int cola_vacia(const t_cola * pc);
 int  poner_en_cola(t_cola * pc, const t_dato * pd);
