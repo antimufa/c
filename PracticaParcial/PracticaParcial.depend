@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1380666776 source:c:\users\cris\documents\github\c\practicaparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -40,3 +40,25 @@ int buscarEnLista(const t_lista * pl, t_dato *pd, t_cmp cmp)
 	*pd = pn->info;
 	return 1;
 }
+void ordenarEnLista(t_lista *pl,t_cmp cmp,t_inter inter)
+{
+    t_nodo *pri;*men;*act;
+    if(!*pl)
+        return 0;
+    pri=*pl;
+    while(pri->psig!=NULL)
+    {
+        men=pri;
+        act=pri->psing;
+        while(act!=NULL)
+        {
+            if(cmp(&act->info,&men->info)<0)
+                men=act;
+            act=act->psig;
+
+        }
+        if(men!=pri)
+            innter(&men->info,&pri->info);
+        pri=pri->psig;
+    }
+}
