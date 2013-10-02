@@ -8,3 +8,9 @@ int indCrear (t_indice * indice)
         return 0;
     return 1;
 }
+int indInsertar(t_indice *indice,const t_reg_indice * reg_indice)
+{
+    int v[];
+
+
+}

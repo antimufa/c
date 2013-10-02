@@ -7,7 +7,8 @@ typedef struct
     unsigned nroReg;
 
 }t_reg_indice;
-typedef struct{
+typedef struct
+{
 
 t_reg_indice * indice;
 
@@ -20,9 +21,9 @@ int indBuscar(const t_indice*,t_reg_indice* reg_ind); // si el dni existe deja e
 int indCargar(t_indice*,const char* path); //carga el array desde un archivo ordenado
 int indGrabar(const t_indice*,const char * path); //graba un archivo con el contenido del indice
 void indVaciar(t_indice*); // deja el inice en suestado de vacio
-int indPrimero(t_indice*,t_reg_indice* reg_ind); // deja el primer registro de indice en reg_ind
-int indSiguiente (t_indice*,t_reg_indice*);
-int indFin (const t_indice*); //devuelve verdad si a ultima operacion de accesso secuencial no entrego el registro por haber llegado al fin de la secuencia y falso en caso contrario
+//int indPrimero(t_indice*,t_reg_indice* reg_ind); // deja el primer registro de indice en reg_ind
+//int indSiguiente (t_indice*,t_reg_indice*);
+//int indFin (const t_indice*); //devuelve verdad si a ultima operacion de accesso secuencial no entrego el registro por haber llegado al fin de la secuencia y falso en caso contrario
 void indLiberar(t_indice*); //libera la memoria utilizada por el indice
 
 

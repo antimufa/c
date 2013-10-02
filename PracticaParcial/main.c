@@ -3,24 +3,14 @@
 
 int main()
 {
-    int c=0;
-    int i,nwhite,nother;
-    int ndigit[10];
+    int v[10];
+    int i, *p;
+    for(i=0;i<10;i++) v[i]=i;
 
-    nwhite = nother =0;
-    for(i=0;i<10;i++)
-        ndigit[i]=0;
-    while((c=getchar())!=EOF){
-        if(c>='0'&&c<='9')
-            ++ndigit[c-'0'];
-        else if(c==' ' || c=='\n' || c=='\t')
-            ++nwhite;
-        else
-            ++nother;
-    }
-    printf("digitos = ");
-    for(i=0;i<10;++i)
-        printf("%d",ndigit[i]);
-    printf(", espacions blancos =%d , otros =%d\n",nwhite, nother);
+    for(i=0;i<10;i++) printf("\n%d",v[i]);
+
+    p=v;
+    for(i=0;i<10;i++)printf("\n%d",*p++);
+    //TRAS CADA P++ EL PUNTERO SENIALA A LA SIGUIENTE POSICION
     return 0;
 }
